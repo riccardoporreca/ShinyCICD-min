@@ -1,6 +1,6 @@
 Package: ShinyCICD
 Title: A Minimal Package for Shiny CI/CD Pipelines
-Version: 0.1.0
+Version: 0.1.0.9000
 Authors@R: person('Riccardo', 'Porreca', email = 'riccardo.porreca@mirai-solutions.com', role = c('cre', 'aut'))
 Description: A minimal package for Shiny CI/CD pipelines.
 License: GPL-3
